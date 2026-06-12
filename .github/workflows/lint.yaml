@@ -1,6 +1,6 @@
 name: Terraform Lint
 
-# Run this workflow when a Pull Request targets main
+# Run this workflow when a Pull Request targets the main branch
 on:
   pull_request:
     branches:
